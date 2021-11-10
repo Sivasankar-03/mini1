@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(void)
 {
-  printf("Welcome to git world");
+  scan("%d,&n);
   return 0;
 }
